@@ -12,5 +12,5 @@ A classic guessing game where the player tries to sink hidden ships. Built using
 
 #### Run:
 ```bash
-python tic_tac_toe.py
-python battleship_game.py
+python tic-tac-toe.py
+python battleship.py
